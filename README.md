@@ -1,2 +1,3 @@
 # Prediction_Movie_Box_Office_Revenue-
- Project of Predict Movie Box Office Revenue with Linear Regression.
+ 
+In this project, I learned the Prediction of  Movie Box Office Revenue using  Linear Regression.
